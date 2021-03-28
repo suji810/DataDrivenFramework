@@ -1,0 +1,16 @@
+**/target
+**/build
+**/node_modules
+**/WebContent
+**/bin
+**/main/webapp/public
+**/.idea/**
+/.idea/runConfigurations/
+/.idea/*.iml
+*.log
+*.log.*
+**/.mvn
+**/*.iml
+*.iml
+jrebel-classpath*.jar
+**/rebel.xml
