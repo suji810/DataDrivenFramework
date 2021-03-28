@@ -1,9 +1,0 @@
-INFO    2021-03-28 14:40:19,741 [main] BaseTest.class  - Test Execution Started !!!
-INFO    2021-03-28 14:40:19,741 [main] BaseTest.class  - Config Properties loaded !!!
-INFO    2021-03-28 14:40:19,741 [main] BaseTest.class  - OR Properties loaded!!!
-INFO    2021-03-28 14:40:22,906 [main] BaseTest.class  - Chrome browser launched
-INFO    2021-03-28 14:40:24,758 [main] BaseTest.class  - Navigated to : http://facebook.com
-INFO    2021-03-28 14:40:25,298 [main] BaseTest.class  - Database connection Established !!!
-INFO    2021-03-28 14:40:25,561 [main] BaseTest.class  - Typing in an Elementemail_id Entered the value as trainer@way2automatiom.com
-INFO    2021-03-28 14:40:25,693 [main] BaseTest.class  - Typing in an Elementpassword_id Entered the value as sjefk
-INFO    2021-03-28 14:40:37,428 [main] BaseTest.class  - browser execution completed
