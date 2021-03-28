@@ -5,6 +5,10 @@
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
+	</buildSpec>
+	<natures>
+=======
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -19,5 +23,6 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+>>>>>>> refs/heads/suji_dev
 	</natures>
 </projectDescription>
