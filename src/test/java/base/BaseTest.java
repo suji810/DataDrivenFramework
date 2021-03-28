@@ -163,6 +163,7 @@ public class BaseTest {
 
 	}
 
+	//it will add after the entire program executes.
 	@AfterSuite
 	public void tearDown() {
 		quit();
